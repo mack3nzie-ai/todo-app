@@ -7,7 +7,7 @@ The app also saves tasks to **localStorage** so data remains available after ref
 ---
 
 ##  Features
-- ➕ Add new tasks with:
+-  Add new tasks with:
   - Title
   - Deadline
   - Urgency (Normal / Urgent)
